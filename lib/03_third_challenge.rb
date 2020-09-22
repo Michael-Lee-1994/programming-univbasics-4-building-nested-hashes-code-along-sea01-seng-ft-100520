@@ -8,13 +8,13 @@ def third_challenge
       },
       :matriarch => {
         #your key/value pairs here
-        name : "Lady Montague",
-        age : "54"
+        name:"Lady Montague",
+        age:"54"
         },
       :hero => {
         #your key/value pairs here
-        name : "Romeo",
-        age : "15",
+        name:"Romeo",
+        age:"15",
         status:"alive"
         
         },
